@@ -8,5 +8,5 @@ Recover depth information from a single RGB map
 Please wait for the update...
 
 
-If you want to contact with me.
+If you want to contact with me.  
 This is my E-mail address： ImageVisioner@outlook.com
